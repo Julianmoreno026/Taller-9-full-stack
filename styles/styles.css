@@ -63,6 +63,8 @@ a {
 }
 
 a:hover {
-  background-color: #e2e2e2;
-  color: #0011ff;
+  background-color: #00fa43;
+  color: #ffffff;
+  transition: 1.25s;
+  
 }

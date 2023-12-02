@@ -1,0 +1,40 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 550px ;
+    align-items: center;
+}
+.header__navigation{
+    display: flex;
+    align-items: center;
+    border: 1px solid transparent;
+   
+}
+.header__navigation nav ul{
+    display: flex;
+    gap: 45px;
+    list-style: none;
+    background-color: rgb(200, 87, 222);
+    margin: 25px 80px;
+    padding: 50px 50px;
+    border: 1px solid;
+    align-items: center;
+    
+}
+.header__navigation nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 25px 25px;
+   
+   
+}
+.header__navigation nav ul li a:hover{
+    background-color: #1e1bcf ;
+    transition: 1s;
+    cursor: pointer;
+}
+.header__navigation nav ul:hover{
+    background-color: black;
+    transition: 1.25s;
+    
+}

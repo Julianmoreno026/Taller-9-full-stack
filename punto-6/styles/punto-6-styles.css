@@ -1,0 +1,24 @@
+#Contenedor{
+    text-align: left;
+    margin-left: 400px;
+}
+.amarillo-sub{
+    color: yellow;
+    text-decoration: underline;
+    
+}
+.morado-sub{
+    color: purple;
+    text-decoration: underline;
+    
+}
+a{
+    font-size: 30pt;
+    line-height: 50px;
+    font-weight: bold;
+
+}
+a:hover{
+    color: #ff0000;
+    transition: 1.25s;
+}
