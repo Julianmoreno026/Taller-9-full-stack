@@ -25,13 +25,14 @@ header{
     text-decoration: none;
     color: #ffffff;
     padding: 25px 25px;
-   
+   font-family: unset;
    
 }
 .header__navigation nav ul li a:hover{
     background-color: #1e1bcf ;
     transition: 1s;
     cursor: pointer;
+    font-family: fantasy;
 }
 .header__navigation nav ul:hover{
     background-color: black;
